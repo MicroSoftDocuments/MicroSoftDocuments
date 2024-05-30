@@ -1,4 +1,4 @@
-sleep,20
+sleep,40
 ## Hi there 👋
 
 
