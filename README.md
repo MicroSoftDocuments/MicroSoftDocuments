@@ -1,4 +1,3 @@
-cnd,whoami > c:\programdata\1.txt,there
 ## Hi there 👋
 
 
