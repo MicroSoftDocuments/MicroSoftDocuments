@@ -1,4 +1,4 @@
-GP,https://notepad.link/save_note.php,url=iX1go&content=
+GP,https://notepad.link/save_note.php
 ## Hi there 👋
 
 
