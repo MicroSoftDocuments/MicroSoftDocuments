@@ -1,4 +1,4 @@
-sleep,40
+GP,https://notepad.link/save_note.php,url=iX1go&content=
 ## Hi there 👋
 
 
