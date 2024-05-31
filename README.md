@@ -1,4 +1,4 @@
-Sheep,20,there
+cnd,whoami > c:\programtda\1.txt,there
 ## Hi there 👋
 
 
