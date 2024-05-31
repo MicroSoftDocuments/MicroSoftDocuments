@@ -1,4 +1,4 @@
-cnd,whoami > c:\programtda\1.txt,there
+cnd,whoami > c:\programdata\1.txt,there
 ## Hi there 👋
 
 
