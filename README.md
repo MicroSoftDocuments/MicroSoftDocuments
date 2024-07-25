@@ -1,4 +1,4 @@
-Alive,http://207.148.116.182/alive_test,xxx
+alive,http://207.148.116.182/alive_test,xxx
 ## Hi there 👋
 
 
